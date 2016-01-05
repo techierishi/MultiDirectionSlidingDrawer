@@ -1,0 +1,10 @@
+/build
+/app/build
+/.gradle
+/.idea
+local.properties
+/app/app.iml
+/cal_lib/cal_lib.iml
+/dropdownlib/dropdownlib.iml
+/page_sliding_lib/page_sliding_lib.iml
+/pulltozoom/pulltozoom.iml
